@@ -1,6 +1,6 @@
 # GreenGuardian Chatbot
 
-![GreenGuardian](https://www.canva.com/design/DAFnnOpSpVc/TxOI5tOf1sPnpDe8OtrXoA/view)
+![GreenGuardian](https://www.canva.com/design/DAFnnOpSpVc/SVu1xbpPMt_z2tGvsnyT2A/edit?utm_content=DAFnnOpSpVc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 GreenGuardian is an AI-powered chatbot designed to provide users with valuable resources and information about sustainable practices for the environment. This chatbot is built using Python and hosted on Google Colab, making it easily accessible and convenient to use. The purpose of GreenGuardian is to promote eco-friendly habits and educate users on how they can contribute to a greener future.
 
@@ -18,7 +18,7 @@ To use GreenGuardian, follow these steps:
 
 Open ChatbotSustainableDevelopment.ipynb and click on Open with Colab
 
-###OR
+### OR
 
 1. Clone the repository from GitHub:
 ```bash
